@@ -4,9 +4,8 @@ author: "Mehmet Bora"
 date: "22/10/2020"
 keep_md: yes
 output:
-  md_document:
-  html_document:
-    df_print: paged
+  md_document
+
 ---
 
 ```{r setup, include=FALSE}
@@ -48,7 +47,6 @@ finally let's see what's inside.
 ```{r exploredata}
 str(activity)
 summary(activity)
-activity
 ```
 
 ### Processing the Data

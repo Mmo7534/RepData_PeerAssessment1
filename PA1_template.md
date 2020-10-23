@@ -77,23 +77,6 @@ finally let’s see what’s inside.
     ##  Max.   :806.00   Max.   :2012-11-30   Max.   :2355.0  
     ##  NA's   :2304
 
-    activity
-
-    ## # A tibble: 17,568 x 3
-    ##    steps date       interval
-    ##    <dbl> <date>        <dbl>
-    ##  1    NA 2012-10-01        0
-    ##  2    NA 2012-10-01        5
-    ##  3    NA 2012-10-01       10
-    ##  4    NA 2012-10-01       15
-    ##  5    NA 2012-10-01       20
-    ##  6    NA 2012-10-01       25
-    ##  7    NA 2012-10-01       30
-    ##  8    NA 2012-10-01       35
-    ##  9    NA 2012-10-01       40
-    ## 10    NA 2012-10-01       45
-    ## # … with 17,558 more rows
-
 ### Processing the Data
 
 #### 1. Question. What is mean total number of steps taken per day?
