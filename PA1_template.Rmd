@@ -2,7 +2,9 @@
 title: "Reproducible Research Week 2 Course Project"
 author: "Mehmet Bora"
 date: "22/10/2020"
+keep_md: yes
 output:
+  md_document:
   html_document:
     df_print: paged
 ---
